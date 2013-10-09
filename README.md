@@ -1,13 +1,13 @@
 # clj-dcf
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library to listen to Oracle Database Change Notifications and do some real-time computation
 
 ## Usage
 
-FIXME
+
 
 ## License
 
-Copyright © 2013 FIXME
+Copyright © 2013 cswaroop
 
 Distributed under the Eclipse Public License, the same as Clojure.
