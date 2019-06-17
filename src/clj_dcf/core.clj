@@ -18,12 +18,12 @@
    :maximum-pool-size  1
    :pool-name          "db-pool"
    :adapter            "oracle"
-   :password           "fico1234"
+   :password           "1234"
    :driverType         "thin" 
    :register-mbeans    false
    :classname "oracle.jdbc.OracleDriver"
    :subprotocol "oracle"
-   :subname "thin:@10.105.87.4:1521/GMFDEVDB482"
+   :subname "thin:@10.105.87.4:1521/DEVDB482"
    :user "system"})
 
 (defn- parse-arguments 
